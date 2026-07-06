@@ -5,4 +5,6 @@ This repository is created to learn Git and GitHub basics.
 
 - Git
 - GitHub
+- commit
 - Repository
+- branch
