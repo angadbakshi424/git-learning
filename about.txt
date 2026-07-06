@@ -1,0 +1,2 @@
+Name: Angad Bakshi
+Goal: Learn Git and GitHub
